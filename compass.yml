@@ -1,0 +1,16 @@
+name: msgraph-sdk-python
+id: ari:cloud:compass:67089d24-a808-43fc-b21a-7240e68803c5:component/7650235b-1fb9-4e21-b2a8-9f79047496f0/2aa518bd-5e02-4fef-aa74-a34294feb2e2
+description: Microsoft Graph Unified endpoint for accessing data, relationships and insights coming from the Microsoft cloud
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/myHerbAI/msgraph-sdk-python
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
